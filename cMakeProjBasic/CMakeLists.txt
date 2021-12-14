@@ -1,3 +1,4 @@
+# skeleton from : https://github.com/ttroy50/cmake-examples/blob/master/01-basic/B-hello-headers/CMakeLists.txt
 # Set the minimum version of CMake that can be used
 # To find the cmake version run
 # $ cmake --version
